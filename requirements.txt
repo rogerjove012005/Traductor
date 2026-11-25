@@ -1,3 +1,5 @@
 numpy
 SpeechRecognition
 sounddevice
+deep-translator
+requests
