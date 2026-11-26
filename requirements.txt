@@ -1,5 +1,4 @@
 numpy
-SpeechRecognition
 sounddevice
-deep-translator
+vosk
 requests
